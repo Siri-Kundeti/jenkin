@@ -7,7 +7,7 @@ pipeline
         { 
             steps
             { 
-                echo 'Validating the Program' 
+                echo 'Validating the Program'
             } 
         }
         stage('Compilation') 
